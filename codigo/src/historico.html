@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Histórico de Filmes Assistidos</title>
+  <script type="text/javascript" src="assets/js/historico.js"></script>
+  <link rel="stylesheet" type="text/css" href="assets/css/historico.css">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+  <div class="titulo">
+    <h1 class="titulo1"> Último passo:</h1>
+    <p>Registre os filmes que você já assistiu:</p>
+  </div>
+
+  <div class="form-wrapper">
+    <div class="form-container">
+      <div class="container">
+        <h1>Histórico de Filmes Assistidos</h1>
+        <div class="container mt-4">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-container">
+                <h2>Cadastrar Filme Assistido</h2>
+
+
+                <form id="frmCadastro">
+                  <label for="title">Título do Filme:</label>
+                  <input type="text" id="title" name="title" required>
+
+                  <label for="director">Diretor:</label>
+                  <input type="text" id="director" name="director" required>
+
+                  <label for="genre">Gênero:</label>
+                  <input type="text" id="genre" name="genre" required>
+
+                  <label for="year">Ano de Lançamento:</label>
+                  <input type="number" id="year" placeholder="2023" name="year" required>
+
+                  <input type="submit" value="Cadastrar Filme">
+                </form>
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6"></div>
+        <div class="film-history">
+          <h2>Histórico de Filmes Assistidos</h2>
+          <table id="tblListar">
+
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--CONCLUIR-->
+  <div class="botaoconcluir">
+    <a class="btn btn-primary" href="inicial.html">Finalizar cadastro</a>
+  </div>
+
+     <!--FOOTER-->
+     <nav class="navbar-custom">
+      <footer class="container" id="saibamais">
+          <h2>Saiba mais</h2>
+          <hr class="mt-0">
+          <div class="row">
+              <div class="col-lg-6">
+                  <div>
+                      <h5>Sobre</h5>
+                      <p>
+                          Recomendamos com base nos filmes e séries que seus amigos e familiares adoram, uma
+                          maneira
+                          de expandir seus horizontes e descobrir mais sobre aqueles que você ama. Descubra novos
+                          gostos e compartilhe experiências enquanto mergulha no mundo do entretenimento.
+                      </p>
+                  </div>
+              </div>
+              <div class="col-lg-6">
+                  <div>
+                      <h5>Autoria:</h5>
+                      <p>
+                          Desenvolvido por: Amanda Bueno, Gustavo Rodrigo, Lucas Azevedo, Pedro Braga, Rafael Azevedo.
+                      </p>
+                  </div>
+                  <div>
+                      <h5>Contato:</h5>
+                      <p>Email: RECommendation@gmail.com</p>
+                  </div>
+              </div>
+          </div>
+      </footer>
+  </nav>
+  <!--FIM FOOTER-->
+
+</body>
+
+</html>

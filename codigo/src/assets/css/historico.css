@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dbdbdb;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.titulo1 {
+    font-family: "Poppins", sans-serif;
+    color: black;
+}
+
+.btn-primary {
+    background-color: #888888; 
+    color: #FFFFFF;
+    border-color: #888888;
+    bottom: 1%;
+    right: 1%;
+}
+
+.botaoconcluir {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.botaoconcluir .btn-primary {
+    background-color:  #888888;
+    color: #FFFFFF;
+    border-color: #888888;
+    margin-bottom: 20px;
+}
+
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* altura total da viewport */
+}
+
+.form-container {
+    width: 80%; /* ajuste conforme necessário */
+    padding: 20px;
+    background-color: #282828;
+    font-family: "Poppins", sans-serif;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+input[type="text"],
+input[type="number"],
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #343a40;
+}
+
+input[type="submit"] {
+    background-color: #888888;
+    color: #dbdbdb;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #888888;
+}
+
+/* Estilização geral da tabela */
+#tblListar {
+    width: 100%;
+    border-collapse: collapse; /* Remove espaçamento entre as células */
+    color: #ffffff; /* Cor do texto */
+    background-color: #282828; /* Cor de fundo */
+}
+
+/* Estilização dos cabeçalhos da tabela */
+#tblListar th {
+    background-color: #333333; /* Cor de fundo para cabeçalhos */
+    color: #ffffff; /* Cor do texto para cabeçalhos */
+    padding: 10px; /* Espaçamento interno */
+}
+
+/* Estilização das células da tabela */
+#tblListar td {
+    padding: 8px; /* Espaçamento interno */
+    border: 1px solid #444444; /* Bordas das células */
+}
+
+/* Estilização das linhas da tabela */
+#tblListar tr:nth-child(even) {
+    background-color: #303030; /* Cor de fundo para linhas alternadas */
+}
+
+#tblListar tr:hover {
+    background-color: #383838; /* Cor de fundo ao passar o mouse */
+}
+
+/* Estilização dos inputs e labels */
+input[type="text"],
+input[type="number"],
+input[type="submit"] {
+    color: #ffffff; /* Cor do texto dentro dos inputs */
+    background-color: #282828;
+    /* outras propriedades */
+}
+
+/* Estilização dos placeholders */
+input::placeholder {
+    color: #bfbfbf; /* Cor mais clara para o placeholder */
+}
+
+label {
+    color: #ffffff; /* Cor do texto para os rótulos */
+    /* outras propriedades */
+}
+
+/* Estilização dos títulos e subtítulos */
+h1, h2 {
+    color: #ffffff; /* Cor do texto para os cabeçalhos */
+    /* outras propriedades */
+}
+

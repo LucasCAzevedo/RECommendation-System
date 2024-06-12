@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Recomendation-System
+authors:
+  - family-names: Bueno Campos Peixoto
+    given-names: Amanda
+  - family-names: Rodrigo Campos Rodrigues
+    given-names: Gustavo
+  - family-names: Cerqueira Azevedo
+    given-names: Lucas
+  - family-names: Pope Braga
+    given-names: Pedro
+  - family-names: Cerqueira Azevedo
+    given-names: Rafael
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva Tavares
+    given-names: Cleiton
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Barbosa da Fonseca
+    given-names: Gabriel
+keywords:
+  - Recomendação de Filmes
+  - Filmes
+  - Cinema 
+  - Critica de filmes
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0387100-recommendationsystem
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2023-12-10

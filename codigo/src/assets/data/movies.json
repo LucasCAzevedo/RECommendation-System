@@ -1,0 +1,114 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+        "link": "https://www.imdb.com/title/tt0111161/",
+        "category": "Drama"
+    },
+    {
+        "title": "The Godfather",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+        "link": "https://www.imdb.com/title/tt0068646/",
+        "category": "Crime"
+    },
+    {
+        "title": "The Dark Knight",
+        "image": "https://m.media-amazon.com/images/I/91KkWf50SoL._AC_UF1000,1000_QL80_.jpg",
+        "description": "When the menace known as the Joker emerges, he wreaks havoc and chaos on the people of Gotham.",
+        "link": "https://www.imdb.com/title/tt0468569/",
+        "category": "Action"
+    },
+    {
+        "title": "Pulp Fiction",
+        "image": "https://www.miramax.com/assets/Pulp-Fiction1.png",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "link": "https://www.imdb.com/title/tt0110912/",
+        "category": "Crime"
+    },
+    {
+        "title": "Inception",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "link": "https://www.imdb.com/title/tt1375666/",
+        "category": "Sci-Fi"
+    },
+    {
+        "title": "Forrest Gump",
+        "image": "https://mail.cinegarimpo.com.br/wp/content/uploads/2009/11/cinegarimpo_forrest-gump-movie_poster.jpg",
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "link": "https://www.imdb.com/title/tt0109830/",
+        "category": "Drama"
+    },
+    {
+        "title": "The Matrix",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "link": "https://www.imdb.com/title/tt0133093/",
+        "category": "Action"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "link": "https://www.imdb.com/title/tt0102926/",
+        "category": "Thriller"
+    },
+    {
+        "title": "Schindler's List",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+        "link": "https://www.imdb.com/title/tt0108052/",
+        "category": "Biography"
+    },
+    {
+        "title": "Gladiator",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "link": "https://www.imdb.com/title/tt0172495/",
+        "category": "Action"
+    },
+    {
+        "title": "For a Few Dollars More",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "description": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+        "link": "https://www.imdb.com/title/tt0059578/",
+        "category": "Western"
+    },
+    {
+        "title": "The Departed",
+        "image": "https://m.media-amazon.com/images/I/81ZOilPKzYL._AC_UF1000,1000_QL80_.jpg",
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "link": "https://www.imdb.com/title/tt0407887/",
+        "category": "Crime"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "link": "https://www.imdb.com/title/tt0167260/",
+        "category": "Fantasy"
+    },
+    {
+        "title": "The Green Mile",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "link": "https://www.imdb.com/title/tt0120689/",
+        "category": "Drama"
+    },
+    {
+        "title": "The Usual Suspects",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "link": "https://www.imdb.com/title/tt0114814/",
+        "category": "Thriller"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "link": "https://www.imdb.com/title/tt0268978/",
+        "category": "Biography"
+    }
+]

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preferências</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="assets/css/gostos.css" rel="stylesheet">
+    <script src="assets/js/gostos.js"></script>
+</head>
+
+<body>
+    
+    <div class="titulo">
+        <h1> Estamos quase acabando o seu cadastro</h1>
+        <p>Escolha as opções "Gosto" ou "Não gosto", dos gêneros de filme apresentados:</p>
+    </div>
+
+    <!--CARDS-->
+
+    <section class="mt-5" id="recomendacoes">
+        <div class="container">
+            <div class="row row-cols-1 row-cols-md-2 g-4" id="card-container">
+                    <!--CARD-->
+                    <div class="card col-md-3 custom-card">
+                        <div class="img-wrapper">
+                            <img src="https://cinepop.com.br/wp-content/uploads/2022/05/mad-max-estrada-da-furia.jpg"
+                                class="card-img-top object-fit-cover" 
+                                    alt=" ...">
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <h5 class="card-title">Ação</h5>
+                            <p class="card-text"></p>
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <a value="Ação" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                            <a value="Ação" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                        </div>
+                    </div>
+                    <!--CARD-->
+                    <div class="card col-md-3 custom-card">
+                        <div class="img-wrapper">
+                            <img src="https://www.mundoconectado.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=910&height=568&format=webp&quality=91&imagick=uploads.mundoconectado.com.br/2022/05/27182925/se-beber-nao-case.jpg"
+                                class="card-img-top object-fit-cover"  alt="...">
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <h5 class="card-title">Comédia</h5>
+                            <p class="card-text"></p>
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <a value="Comédia" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                            <a value="Comédia" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                        </div>
+                    </div>
+                    <!--CARD-->
+                    <div class="card col-md-3 custom-card">
+                        <div class="img-wrapper">
+                            <img src="https://br.web.img2.acsta.net/r_1280_720/newsv7/20/06/12/18/16/2912051.jpg"
+                                class="card-img-top object-fit-cover"  alt="...">
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <h5 class="card-title">Romance</h5>
+                            <p class="card-text"></p>
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <a value="Romance" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                            <a value="Romance" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                        </div>
+                    </div>
+                    <!--CARD-->
+                    <div class="card col-md-3 custom-card">
+                        <div class="img-wrapper">
+                            <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/01/Panico-5-filmes-terror.jpg?w=1200&h=675&crop=1"
+                                class="card-img-top object-fit-cover"  alt="...">
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <h5 class="card-title">Terror</h5>
+                            <p class="card-text"></p>
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <a value="Terror" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                            <a value="Terror" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                        </div>
+                    </div>
+                    <!--CARD-->
+                    <div class="card col-md-3 custom-card">
+                        <div class="img-wrapper">
+                            <img src="https://img.olhardigital.com.br/wp-content/uploads/2023/03/Star-Wars.jpg"
+                                class="card-img-top object-fit-cover"  alt="...">
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <h5 class="card-title">Ficção Científica</h5>
+                            <p class="card-text"></p>
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <a value="Ficção Científica" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                            <a value="Ficção Científica" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                        </div>
+                    </div>
+                    <!--CARD-->
+                    <div class="card col-md-3 custom-card">
+                        <div class="img-wrapper">
+                            <img src="https://www.dicasdemulher.com.br/wp-content/uploads/2019/02/filmes-de-drama-1.jpg"
+                                class="card-img-top object-fit-cover"  alt="...">
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <h5 class="card-title">Drama</h5>
+                            <p class="card-text"></p>
+                        </div>
+                        <div class="card-body d-flex justify-content-between">
+                            <a value="Drama" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                            <a value="Drama" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                        </div>
+                    </div>
+                    <!--CARD-->
+                <div class="card col-md-3 custom-card">
+                    <div class="img-wrapper">
+                        <img src="https://br.web.img3.acsta.net/r_1280_720/newsv7/20/06/11/02/24/2254375.jpg"
+                            class="card-img-top object-fit-cover"  alt="...">
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <h5 class="card-title">Suspense</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <a value="Suspense" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                        <a value="Suspense" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                    </div>
+                </div>
+                <!--CARD-->
+                <div class="card col-md-3 custom-card">
+                    <div class="img-wrapper">
+                        <img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/91C45F16F7585B78672D4238AA982839AD06FEC1FAFF3700EC1D42B5E7051FA9/scale?width=1200&aspectRatio=1.78&format=jpeg"
+                            class="card-img-top object-fit-cover"  alt="...">
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <h5 class="card-title">Aventura</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-body d-flex justify-content-between d-flex justify-content-between">
+                        <a value="Aventura" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                        <a value="Aventura" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                    </div>
+                </div>
+                <!--CARD-->
+                <div class="card col-md-3 custom-card">
+                    <div class="img-wrapper">
+                        <img src="https://cdn.folhape.com.br/img/c/1200/900/dn_arquivo/2022/07/o-poderoso-chefao-1.jpg"
+                            class="card-img-top object-fit-cover"  alt="...">
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <h5 class="card-title">Crime</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <a value="Crime" class="btn btn-primary" onclick="naoGosto(this)">Não
+                            gosto</a>
+                        <a value="Crime" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                    </div>
+                </div>
+                <!--CARD-->
+                <div class="card col-md-3 custom-card">
+                    <div class="img-wrapper">
+                        <img src="https://rollingstone.uol.com.br/media/_versions/bastardos_inglorios_foto_divulgacao_widelg.jpg"
+                            class="card-img-top object-fit-cover"  alt="...">
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <h5 class="card-title">Guerra</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <a value="Guerra" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                        <a value="Guerra" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                    </div>
+                </div>
+                <!--CARD-->
+                <div class="card col-md-3 custom-card">
+                    <div class="img-wrapper">
+                        <img src="https://conteudo.imguol.com.br/c/entretenimento/48/2022/03/25/cenario-de-filme-western-na-andaluzia-espanha-1648225194403_v2_900x506.jpg"
+                            class="card-img-top object-fit-cover"  alt="...">
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <h5 class="card-title">Faroeste</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <a value="Faroeste" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                        <a value="Faroeste" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                    </div>
+                </div>
+                <!--CARD-->
+                <div class="card col-md-3 custom-card">
+                    <div class="img-wrapper">
+                        <img src="https://s2-techtudo.glbimg.com/2oZfkxM4ZAM9HRDi8egKlYjyVg4=/0x0:1440x750/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/C/N/8O86ImQ2Kc8UMO840cPA/o-senhor-dos-aneis-a-sociedade-do-anel.webp"
+                            class="card-img-top object-fit-cover"  alt="...">
+                    </div>
+                    <div class="card-body d-flex justify-content-between">
+                        <h5 class="card-title">Fantasia</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-body d-flex justify-content-between d-flex justify-content-between">
+                        <a value="Fantasia" class="btn btn-primary" onclick="naoGosto(this)">Não gosto</a>
+                        <a value="Fantasia" class="btn btn-secondary" onclick="gosto(this)">Gosto</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--LISTAS-->
+    <div class="botaolista">
+        <button class="btn btn-primary" id="mostrarListasButton">Mostrar/Atualizar Lista</button>
+        <h3 id="listasExibicao"></h3>
+    </div>
+    <!--LISTAS-->
+
+    <!--CONCLUIR-->
+    <div class="botaoconcluir">
+        <a class="btn btn-primary" href="historico.html">Seguir cadastro</a>
+    </div>
+
+    <!--FOOTER-->
+    <nav class="navbar-custom">
+        <footer class="container" id="saibamais">
+            <h2>Saiba mais</h2>
+            <hr class="mt-0">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div>
+                        <h5>Sobre</h5>
+                        <p>
+                            Recomendamos com base nos filmes e séries que seus amigos e familiares adoram, uma
+                            maneira
+                            de expandir seus horizontes e descobrir mais sobre aqueles que você ama. Descubra novos
+                            gostos e compartilhe experiências enquanto mergulha no mundo do entretenimento.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div>
+                        <h5>Autoria:</h5>
+                        <p>
+                            Desenvolvido por: Amanda Bueno, Gustavo Rodrigo, Lucas Azevedo, Pedro Braga, Rafael Azevedo.
+                        </p>
+                    </div>
+                    <div>
+                        <h5>Contato:</h5>
+                        <p>Email: RECommendation@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </nav>
+    <!--FIM FOOTER-->
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+
+</html>

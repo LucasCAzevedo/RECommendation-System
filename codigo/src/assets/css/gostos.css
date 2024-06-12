@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dbdbdb;
+}
+
+.img-wrapper{
+    height: 22vw;
+    margin: 0 auto;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.custom-card .img-wrapper img {
+    max-width: 100%;
+    height: 22vw;
+    object-fit: cover;
+}
+
+.botaolista {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.botaoconcluir{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #888888; 
+    color: #FFFFFF;
+    border-color: #888888;
+    bottom: 1%;
+    right: 1%;
+}
+
+.btn-primary:hover {
+    color: black;
+}
+
+.btn-secondary {
+    color: #FFFFFF;
+    text-decoration: none;
+    border-color: #888888;
+    bottom: 2%;
+    left: 5%;
+}
+
+.btn-secondary:hover {
+    color: black;
+}
+
+.img-container {
+    position: relative;
+    padding-bottom: 100%;
+    overflow: hidden;
+}
+
+.img-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card {
+    position: relative;
+}
+
+.card-title {
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dbdbdb;
+}

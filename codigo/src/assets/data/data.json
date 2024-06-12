@@ -1,0 +1,382 @@
+[
+    {
+        "id": "1",
+        "title": "The Shawshank Redemption",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+        "link": "https://www.imdb.com/title/tt0111161/",
+        "images": "https://m.media-amazon.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1_.jpg",
+        "releaseDate": "17 de março de 1995 (Brasil)",
+        "movieLength": "2h 22m",
+        "genres": [
+            "Drama"
+        ],
+        "ageRating": "Não recomendado para menores de 16 anos",
+        "cast": [
+            "Morgan Freeman",
+            "Tim Robbins",
+            "Clancy Brown",
+            "Bob Gunton",
+            "William Sadler",
+            "Gil Bellows",
+            "Mark Rolston"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "The Godfather",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "description": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
+        "link": "https://www.imdb.com/title/tt0068646/",
+        "images": "https://fox2now.com/wp-content/uploads/sites/14/2022/06/GettyImages-1195327712.jpg?strip=1",
+        "releaseDate": "7 de julho de 1972 (Brasil)",
+        "movieLength": "2h 55m",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Al Pacino",
+            "Marlon Brando",
+            "James Caan",
+            "Diane Keaton",
+            "Robert De Niro",
+            "Talia Shire",
+            "John Cazale"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "The Dark Knight",
+        "mainImg": "https://m.media-amazon.com/images/I/91KkWf50SoL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Batman tem conseguido manter a ordem em Gotham com a ajuda de Jim Gordon e Harvey Dent. No entanto, um jovem e anárquico criminoso, conhecido apenas como Coringa, pretende testar o Cavaleiro das Trevas e mergulhar a cidade em um verdadeiro caos.",
+        "link": "https://www.imdb.com/title/tt0468569/",
+        "images": "https://www.digitaltrends.com/wp-content/uploads/2023/07/The-Drk-Knight-Jokr-nd-Batman.jpg?p=1",
+        "releaseDate": "18 de julho de 2008 (Brasil)",
+        "movieLength": "2h 32m",
+        "genres": [
+            "Ação",
+            "Aventura"
+        ],
+        "ageRating": "Não recomendado para menores de 12 anos",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Gary Oldman",
+            "Aaron Eckhart",
+            "Michael Caine",
+            "Morgan Freeman",
+            "Maggie Gyllenhaal"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Pulp Fiction",
+        "mainImg": "https://www.miramax.com/assets/Pulp-Fiction1.png",
+        "description": "Assassino que trabalha para a máfia se apaixona pela esposa de seu chefe quando é convidado a acompanhá-la, um boxeador descumpre sua promessa de perder uma luta e um casal tenta um assalto que rapidamente sai do controle.",
+        "link": "https://www.imdb.com/title/tt0110912/",
+        "images": "https://tm.ibxk.com.br/2021/11/03/03153403215312.jpg",
+        "releaseDate": "3 de março de 1995 (Brasil)",
+        "movieLength": "2h 34m",
+        "genres": [
+            "Crime"
+        ],
+        "ageRating": "Não recomendado para menores de 18 anos",
+        "cast": [
+            "Quentin Tarantino",
+            "John Travolta",
+            "Samuel L. Jackson",
+            "Uma Thurman",
+            "Bruce Willis",
+            "Tim Roth",
+            "Christopher Walken"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Inception",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "description": "Dom Cobb é um ladrão com a rara habilidade de roubar segredos do inconsciente, obtidos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império.",
+        "link": "https://www.imdb.com/title/tt1375666/",
+        "images": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e826ebbcc692b4d19059d24125cf23699067ab621c979612fd0ca11ab42a65cb._RI_TTW_SX720_FMjpg_.jpg",
+        "releaseDate": "6 de agosto de 2010 (Brasil)",
+        "movieLength": "2h 28m",
+        "genres": [
+            "Ação",
+            "Ficção científica"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Cillian Murphy",
+            "Tom Hardy",
+            "Elliot Page",
+            "Marion Cottilard",
+            "Ken Watanabe"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Forrest Gump",
+        "mainImg": "https://mail.cinegarimpo.com.br/wp/content/uploads/2009/11/cinegarimpo_forrest-gump-movie_poster.jpg",
+        "description": "Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de pesca de camarão, Forrest inspira a todos com seu otimismo.",
+        "link": "https://www.imdb.com/title/tt0109830/",
+        "images": "https://aventurasnahistoria.uol.com.br/media/uploads/curiosidades/forrestndnd.jpg",
+        "releaseDate": "7 de dezembro de 1994 (Brasil)",
+        "movieLength": "2h 22m",
+        "genres": [
+            "Romance",
+            "Comédia"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise",
+            "Sally Field",
+            "Mykelti Williamson",
+            "Haley Joel Osment",
+            "Michael Conner Humphreys"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "The Matrix",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix.",
+        "link": "https://www.imdb.com/title/tt0133093/",
+        "images": "https://ogimg.infoglobo.com.br/rioshow/24118715-847-afa/FT1086A/760/matrix.jpg",
+        "releaseDate": "Data de lançamento: 21 de maio de 1999 (Brasil)",
+        "movieLength": "2h 16m",
+        "genres": [
+            "Ação",
+            "Ficção científica"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Keanu Reeves",
+            "Carrie-Anne Moss",
+            "Laurence Fishburne",
+            "Hugo Weaving",
+            "Gloria Foster",
+            "Joe Pantoliano",
+            "Marcus Chong"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "The Silence of the Lambs",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "A jovem e talentosa agente do FBI Clarice Starling recebe ajuda do encarcerado Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento e canibal, para tentar encontrar um assassino em série conhecido como Buffalo Bill.",
+        "link": "https://www.imdb.com/title/tt0102926/",
+        "images": "https://www.media.hw-static.com/wp-content/uploads/2015-06-25-The-Silence-of-the-Lambs-Anthony-Heald-Anthony-Hopkins-Orion-Pictures-Everett-Collection.jpg",
+        "releaseDate": "17 de maio de 1991 (Brasil)",
+        "movieLength": "1h 58m",
+        "genres": [
+            "Crime",
+            "Terror"
+        ],
+        "ageRating": "Não recomendado para menores de 16 anos",
+        "cast": [
+            "Anthony Hopkins",
+            "Jodie Foster",
+            "Ted Levine",
+            "Brooke Smith",
+            "Lawrence A. Bonney",
+            "Scott Glenn",
+            "Ted Tally"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Schindler's List",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História",
+        "link": "https://www.imdb.com/title/tt0108052/",
+        "images": "https://www.berlinale.de/media/filmstills/2023/hommage-2023/202314728_1_RWD_1380.jpg",
+        "releaseDate": "31 de dezembro de 1993 (Brasil)",
+        "movieLength": "3h 15m",
+        "genres": [
+            "Drama",
+            "Guerra"
+        ],
+        "ageRating": "Não recomendado para menores de 16 anos",
+        "cast": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley",
+            "Embeth Davidtz",
+            "Caroline Goodall",
+            "Jonathan Sagall",
+            "Beatrice Macola"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Gladiator",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "Maximus é um poderoso general romano, amado pelo povo e pelo imperador Marcus Aurelius. Antes de sua morte, o Imperador desperta a ira de seu filho Commodus ao tornar pública a sua predileção em deixar o trono para Maximus. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus.",
+        "link": "https://www.imdb.com/title/tt0172495/",
+        "images": "https://cdn.britannica.com/93/77293-050-CF984388/Russell-Crowe-Gladiator.jpg",
+        "releaseDate": "19 de maio de 2000 (Brasil)",
+        "movieLength": "2h 35m",
+        "genres": [
+            "Ação",
+            "Aventura"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Russel Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen",
+            "Richard Harris",
+            "Oliver Reed",
+            "Spencer Treat Clark",
+            "Tommy Flanagan"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "For a Few Dollars More",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "description": "Dois caçadores de recompensa com as mesmas intenções concordam em se tornar parceiros na procura de um criminoso cruel",
+        "link": "https://www.imdb.com/title/tt0059578/",
+        "images": "https://prod-images.tcm.com/Master-Profile-Images/forafewdollarsmore1965.3646.jpg",
+        "releaseDate": "18 de dezembro de 1965 (Itália)",
+        "movieLength": "2h 12m",
+        "genres": [
+            "Faroeste",
+            "Drama"
+        ],
+        "ageRating": "Não recomendado para menores de 12 anos",
+        "cast": [
+            "Clint Eastwood",
+            "Lee Van Cleef",
+            "Gian Maria Volonté",
+            "Klaus Kinski",
+            "Luigi Pistilli",
+            "Joseph Egger",
+            "Aldo Sambrell"
+        ]
+    },
+    {
+        "id": "12",
+        "title": "The Departed",
+        "mainImg": "https://m.media-amazon.com/images/I/81ZOilPKzYL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Um jovem policial, recebe a missão de se infiltrar na máfia, conquistando sua confiança ao mesmo tempo em que um criminoso que atuou na polícia como informante também ascende dentro da corporação. Mas, quando a máfia e a polícia descobrem que há um espião entre eles, a vida de ambos passa a correr perigo.",
+        "link": "https://www.imdb.com/title/tt0407887/",
+        "images": "https://m.media-amazon.com/images/M/MV5BMTk3OTE2ODM1NF5BMl5BanBnXkFtZTcwMjc4MzMyNw@@._V1_.jpg",
+        "releaseDate": "6 de outubro de 2006 (EUA)",
+        "movieLength": "2h 31m",
+        "genres": [
+            "Crime"
+        ],
+        "ageRating": "Não recomendado para menores de 18 anos",
+        "cast": [
+            "Vera Farmiga",
+            "Jack Nicholson",
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Mark Wahlberg",
+            "Martin Sheen",
+            "Kristen Dalton"
+        ]
+    },
+    {
+        "id": "13",
+        "title": "The Lord of the Rings: The Return of the King",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "description": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência.",
+        "link": "https://www.imdb.com/title/tt0167260/",
+        "images": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/lotr-the-return-of-the-king-keyart-min.jpg.adapt.crop191x100.628p.jpg",
+        "releaseDate": "25 de dezembro de 2003 (Brasil)",
+        "movieLength": "3h 30m",
+        "genres": [
+            "Aventura",
+            "Fantasia"
+        ],
+        "ageRating": "Não recomendado para menores de 12 anos",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Karl Urban",
+            "Sean Astin",
+            "Viggo Mortensen",
+            "Andy Serkis",
+            "John Noble"
+        ]
+    },
+    {
+        "id": "14",
+        "title": "The Green Mile",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "description": "Um carcereiro tem um relacionamento incomum e comovente com um preso que está no corredor na morte por ter matado brutalmente duas gêmeas de nove anos. Além de ser simples, ingênuo e ter pavor do escuro, ele possui um dom sobrenatural.",
+        "link": "https://www.imdb.com/title/tt0120689/",
+        "images": "https://dalenogare.com/wp-content/uploads/2014/03/The-Green-Mile.jpg",
+        "releaseDate": "10 de março de 2000 (Brasil)",
+        "movieLength": "3h 9m",
+        "genres": [
+            "Fantasia",
+            "Crime"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Michael Clarke Duncan",
+            "Tom Hanks",
+            "David Morse",
+            "Sam Rockwell",
+            "Michael Jeter",
+            "Doug Hutchison",
+            "James Cromwell"
+        ]
+    },
+    {
+        "id": "15",
+        "title": "The Usual Suspects",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "Detetive interroga um dos únicos sobreviventes de uma explosão no cais que provocou dezenas de mortes. O suspeito conta uma história sobre os eventos que levaram ele e mais quatro criminosos ao local do crime, deixando dúvidas sobre a verdade.",
+        "link": "https://www.imdb.com/title/tt0114814/",
+        "images": "https://www.slashfilm.com/img/gallery/the-usual-suspects-ending-explained-the-greatest-trick-the-devil-ever-pulled/intro-1652535338.jpg",
+        "releaseDate": "19 de abril de 1996 (Brasil)",
+        "movieLength": "1h 46m",
+        "genres": [
+            "Crime"
+        ],
+        "ageRating": "Não recomendado para menores de 14 anos",
+        "cast": [
+            "Benicio Del Toro",
+            "Gabriel Byrne",
+            "Stephen Baldwin",
+            "Chazz Palminteri",
+            "Kevin Pollak",
+            "Pete Postlethwaite",
+            "Giancarlo Esposito"
+        ]
+    },
+    {
+        "id": "16",
+        "title": "A Beautiful Mind",
+        "mainImg": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "description": "John Forbes Nash Jr. é reconhecido como gênio da matemática aos 21 anos. Cedo, casa-se com uma bela mulher, mas logo começa a dar sinais de esquizofrenia. Após anos de luta contra a doença, ele acaba ganhando o prêmio Nobel.",
+        "link": "https://www.imdb.com/title/tt0268978/",
+        "images": "https://images.nrc.nl/Rk2QEZLDwO6Fj-WrWLTniaOv244=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/stripped/1411cultvbeautifulmind.jpg",
+        "releaseDate": "15 de fevereiro de 2002 (Brasil)",
+        "movieLength": "2h 15m",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "ageRating": "Não recomendado para menores de 12 anos",
+        "cast": [
+            "Russel Crowe",
+            "Jennifer Connelly",
+            "Paul Bettany",
+            "Ed Harris",
+            "Josh Lucas",
+            "Adam Goldberg",
+            "Alicia Nash"
+        ]
+    }
+]
